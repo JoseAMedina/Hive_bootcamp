@@ -1,3 +1,3 @@
-# Hive_bootcamp
+# Hive_Coding_bootcamp
 
-There are my Hive Helsinki bootcamp C projects. An amazing experience :)
+There are my Hive Helsinki Coding bootcamp C projects. An amazing experience :)
